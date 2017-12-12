@@ -10,6 +10,17 @@
 #include <stdio.h>
 #include <tchar.h>
 
+#include<iostream>
+#include <vector>
+#include <queue>
+#include <memory>
+#include <thread>
+#include <mutex>
+#include <condition_variable>
+#include <future>
+#include <functional>
+#include <stdexcept>
+
 
 
 // TODO: reference additional headers your program requires here
